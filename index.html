@@ -1,0 +1,47 @@
+---
+layout: default
+---
+
+<section id="about">
+<h1>About Me</h1>
+
+  <div class="blurb">
+    {{ site.data.settings.blurb | markdownify }}
+  </div>
+  
+  <!-- {% if site.data.settings.skills %}
+  <div class="skill-lockup">
+   <h3> Skills </h3>
+    {% for skill in site.data.settings.skills %}
+      <div class="skill-unit">
+        <div class="skill-label">{{ skill.name }}</div>
+        <div class="skill-icons skill-{{ skill.value }}">
+          {% for i in (1..10) %}
+            <span></span>
+          {% endfor %}
+        </div>
+      </div>    
+    {% endfor %}
+  </div>
+    {% endif %} -->
+</section>
+{% if site.posts %}
+<section id="posts">
+<div class="home">
+
+  <h1 class="page-heading">Posts</h1>
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <h3>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h3>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+      </li>
+    {% endfor %}
+  </ul>
+</section>
+{% endif %}
+  <!--<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>-->
+</div>

@@ -1,0 +1,11 @@
+# Build Settings
+markdown: kramdown
+permalink: /blog/:year/:title.html
+
+sass:
+  sass_dir: _sass
+  style: :nested
+
+collections:
+  dnd:
+    output: true

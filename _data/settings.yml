@@ -1,0 +1,33 @@
+# Site settings
+title: Drinks @ Tim's
+email: <SCRIPT TYPE="text/javascript"> emailE=('tktechie'); emailE=(emailE + '@'); emailE=(emailE + 'me.com'); document.write('<a href="mailto:' + emailE + '">'+ emailE + '</a>') </SCRIPT>
+description: > # this means to ignore newlines until "baseurl:"
+  I'm a technology oriented person interested in learning about almost everything. This site is where I put things that interest me.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://drinksattims.com" # the base hostname & protocol for your site
+twitter_username: tktechie
+github_username:  tktechie
+
+menu:
+- {name: About Me, url: '/index.html#about'}
+- {name: Posts, url: '/index.html#posts'}
+- {name: DnD, url: '/dnd.html'}
+#- {name: Contact, url: '#contact'}
+
+blurb: >
+  I'm a technology oriented person interested in learning about almost everything. Join me on the journey. 
+
+  I'm also at [tktechie.com](http://tktechie.com/) where I do cool things like archviz and the codes for my job.
+
+skills:
+- {name: 3D Modeling, value: '8'}
+- {name: Photo Realistic Renders, value: '7'}
+- {name: Learning, value: '8'}
+- {name: Teaching, value: '7'}
+- {name: Planning, value: '5'}
+- {name: Visual Design, value: '5'}
+- {name: UX Design, value: '3'}
+- {name: Programming, value: '3'}
+
+kramdown:
+  input: GFM
