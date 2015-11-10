@@ -7,11 +7,11 @@ title: D&D Sessions
 <br>
 
 
-- Eladrin Warlock, Chris T.
-- Shadar-Kai Shaman, Zach DeC.
-- Wilden Battlemind, Michaela F.
-- Half-Elf Ranger, Raleigh
-- Dungeon Master, Tim K 2
+- Eladrin Warlock, Taracob
+- Shadar-Kai Shaman, Namir
+- Wilden Battlemind, Teldorath
+- Half-Elf Ranger, Lady Moonshine of Doubtfire
+- Dungeon Master, Me
 
 
 {% for dnd in site.dnd %}

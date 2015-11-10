@@ -6,7 +6,7 @@ session-date: 2015-08-08
 ---
 From the notebook of Teldorath:
 
->Made contact with Verthenion (Diety: Ioun, blue lightning Dragon Born) who contracted Namir, Teldorath, and Taracob to escort him to a secret ruin where the artifact (which has the ability to merge the realms of the fay, shadowfell, and humans at any point in the world rather than just at specified or previously known laypoints) would be safe.
+>Made contact with Verthenion (Diety: Ioun, blue lightning Dragon Born) who contracted Namir, Teldorath, and Taracob to escort him to a secret ruin where the artifact (which has the ability to merge the realms of the Fey, Shadowfell, and humans at any point in the world rather than just at specified or previously known lay-points) would be safe.
 >
 >Traveled by horseback northeast into a forest bordering the town where we encountered a pack of grey wolves. The wolves were defeated and Verthenion suggested that we take an extended rest in order to recover from the harrowing experience.
 
