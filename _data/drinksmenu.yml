@@ -1,0 +1,36 @@
+mainstays:
+- {name: "Moscow Mule", ingredients: "vodka , ginger beer , lime juice"}
+- {name: "Whiskey Sour", ingredients: "whiskey , lemon juice , simple syrup"}
+- {name: "Gin & Tonic", ingredients: "gin , tonic water , || citrus or bitters if desired ||"}
+- {name: "Martini, dry", ingredients: "gin/vodka , dry vermouth , garnish"}
+- {name: "Martini, perfect", ingredients: "gin/vodka , dry vermouth , red vermouth , garnish"}
+- {name: "Martini, dirty", ingredients: "gin/vodka , dry vermouth , olive brine , olive"}
+- {name: "Martini, Lemon Drop", ingredients: "citron vodka , lemon juice , simple syrup"}
+- {name: "Manhattan", ingredients: "whiskey , red vermouth , aromatic bitters"}
+- {name: "Old Fashioned", ingredients: "whiskey , aromatic bitters , sugar , orange slice"}
+- {name: "God Mother", ingredients: "vodka , amaretto"}
+# - {name: "", ingredients: ""}
+
+# seasonal-spring:
+# - {name: "Mojito", ingredients: "rum , simple syrup , mojito mint"}
+# - {name: "", ingredients: ""}
+# - {name: "", ingredients: ""}
+# - {name: "", ingredients: ""}
+
+# seasonal-summer:
+# - {name: "Mint Julep", ingredients: "bourbon , sugar , spearmint"}
+# - {name: "Bramble", ingredients: "gin , blackberry liqueur , lemon juice , simple syrup"}
+# - {name: "Daiquiri", ingredients: "rum , lime juice , simple syrup"}
+# - {name: "", ingredients: ""}
+
+
+seasonal-fall:
+- {name: "Can't Even", ingredients: "gin , peach liqueur , orange liqueur , apple cider"}
+- {name: "Hot Toddy", ingredients: "apple brandy , apple cider"}
+- {name: "Cranberry Crush", ingredients: "spiced rum , ginger beer , cranberry juice"} # parts: 2,2,3
+- {name: "Ciderhouse Whiskey", ingredients: "bourbon , cider syrup , lemon zest twist"}
+
+# seasonal-winter:
+# - {name: "Egg Nog", ingredients: ""}
+# - {name: "Irish Coffee", ingredients: ""}
+
