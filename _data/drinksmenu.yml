@@ -33,4 +33,6 @@ seasonal-fall:
 # seasonal-winter:
 # - {name: "Egg Nog", ingredients: ""}
 # - {name: "Irish Coffee", ingredients: ""}
+# - {name: "", ingredients: ""}
+# - {name: "", ingredients: ""}
 
