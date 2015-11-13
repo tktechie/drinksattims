@@ -13,9 +13,9 @@ mainstays:
 
 # seasonal-spring:
 # - {name: "Mojito", ingredients: "rum , simple syrup , mojito mint"}
-# - {name: "", ingredients: ""}
-# - {name: "", ingredients: ""}
-# - {name: "", ingredients: ""}
+# - {name: "Thymes Like These", ingredients: "gin , cocchi americano , thyme-lime infusion , lime bitters"}
+# - {name: "Kiwi Envy", ingredients: "gin , elderflower liqueur , lime juice , kiwi , simple syrup , soda water"}
+# - {name: "Ruby on Rails", ingredients: "gin , pimm's no. 1 cup , strawberry syrup , rosé wine , strawberries"}
 
 # seasonal-summer:
 # - {name: "Mint Julep", ingredients: "bourbon , sugar , spearmint"}
@@ -26,13 +26,14 @@ mainstays:
 
 seasonal-fall:
 - {name: "Can't Even", ingredients: "gin , peach liqueur , orange liqueur , apple cider"}
-- {name: "Hot Toddy", ingredients: "apple brandy , apple cider"}
+# - {name: "", ingredients: ""}
 - {name: "Cranberry Crush", ingredients: "spiced rum , ginger beer , cranberry juice"} # parts: 2,2,3
 - {name: "Ciderhouse Whiskey", ingredients: "bourbon , cider syrup , lemon zest twist"}
 
 # seasonal-winter:
 # - {name: "Egg Nog", ingredients: ""}
 # - {name: "Irish Coffee", ingredients: ""}
-# - {name: "", ingredients: ""}
+# - {name: "Hot Toddy", ingredients: "apple brandy , apple cider"}
+
 # - {name: "", ingredients: ""}
 

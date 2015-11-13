@@ -9,3 +9,5 @@ sass:
 collections:
   dnd:
     output: true
+
+excerpt_separator: <!--more-->

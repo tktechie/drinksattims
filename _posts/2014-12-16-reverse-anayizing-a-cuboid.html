@@ -1,0 +1,59 @@
+---
+layout: post
+title:  "Reverse analysis of a cuboid"
+permalink: /cuboid 
+excerpt_separator: <!--more-->
+---
+<p>So here's the dilemma. I was originally given the volume &amp; the surface area three adjacent sides of a room (cuboid). I'm not sure why the person couldn't just give me the <span class="math">\( l \times w \times h\ \)</span> of the room in question. More frustratingly, I don't know why the spreadsheet I received had the volume &amp; surface areas, but not the numbers used to calculate them. <!--more--> So, because I was impatient &amp; didn't want to wait on a reply from said person with the dimensions, I decided to try reverse engineering the room from the values I had, using only algebra and geometry (I don't know calculus, or even if it's needed to get the solution I'm looking for). <s>It didn't work, but here's all the steps I took to fail.</s> <a href="#update1">An Update</a></p>
+
+<p>If: </p>
+
+<ul>
+	<li>SA<sub>1</sub> = 2720 ft<sup>2</sup></li>
+	<li>SA<sub>2</sub> = 3318 ft<sup>2</sup></li>
+	<li>SA<sub>3</sub> = 4200 ft<sup>2</sup></li>
+	<li>V = 155,039 ft<sup>3</sup></li>
+	<li>l = ?</li>
+	<li>w = ?</li>
+	<li>h = ?</li>
+</ul>
+
+<p><img src="/assets/img/cuboid.png" alt="" /><br/>
+Drawing not to scale.</p>
+
+<p>&amp; of course:</p>
+
+<p><span class="math">\[ V= l\times w \times h \\  
+\\  
+SA_1=w\times h \\  
+SA_2=l\times h \\  
+SA_3=l\times w \]</span></p>
+
+<p>Then it stands to reason that:</p>
+
+<p><span class="math">\[V= SA_1\times l\\  
+V= SA_2\times w\\  
+V= SA_3\times h\\  
+{SA}_1 = {V\over l}\\  
+{SA}_2 = {V\over w}\\  
+{SA}_3 = {V\over h}\]</span></p>
+
+<p>and so through the powers of algebra:<br/>
+<span class="math">\[ \begin{align}  
+l= {V\over SA~1} &= {155039 \text{ft}^3\over 2720\text{  ft}^2} = 56.9996\text{ ft} ≈57\text{ ft} \\  
+w= {V\over SA~2} &= {155039 \text{ ft}^3\over 3318\text{ ft}^2} = 46.727\text{ ft} ≈46.75\text{ ft}\\  
+h= {V\over SA~3} &= {155039 \text{ ft}^3\over 4200\text{ ft}^2} = 36.914\text{ ft} ≈37\text{ ft}  
+\end{align}\]</span></p>
+
+<p>But, when I multiply these three together, it&#8217;s nowhere close:<br/>
+<span class="math">\[ 57\times 46.75\times 37=98,595.75\text{ ft}^3≠V\]</span></p>
+
+<h3 id="update1">An Update:</h3>
+<p>I tried this on a cuboid of known dimensions. My approach is correct, but the numbers I was originally given are lying to me. There’s at least one wrong from that person.</p>
+<div style="display:none"><br/>
+<!--This seemingly unnecessary div markup is the only thing keeping this script working after Markdown conversion. Trust me.--><br/>
+ <script type="text/x-mathjax-config">  
+  MathJax.Hub.Config({});  
+</script><br/>
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script><br/>
+</div>

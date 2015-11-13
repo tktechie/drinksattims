@@ -14,6 +14,7 @@
 
       <div class="footer-col footer-col-2">
         <ul class="social-media-list">
+          <li>Find Me</li>
           {% if site.data.settings.github_username %}
           <li>
             <a href="https://github.com/{{ site.data.settings.github_username }}">
@@ -45,9 +46,30 @@
         </ul>
       </div>
 
-      <div class="footer-col footer-col-3">
-        <p>{{ site.data.settings.description }}</p>
+      <div class="footer-col  footer-col-3">
+        <ul class="list-other-links">
+          <li>
+            Other Links
+          </li>
+          <li>
+            <a href="/wishes/">
+              <span class="icon" ><img src="" height="16px" width="16px"></span>
+              <span class="username">Wish List</span>
+            </a>
+          </li>
+          <li>
+            <a href="/likeableThings/">
+              <span class="icon" ><img src="" height="16px" width="16px"></span>
+              <span class="username">Things I Like</span>
+            </a>
+          </li>
+        </ul>
       </div>
+
+      <div class="footer-col  footer-col-4">
+        <p class="text">{{ site.data.settings.description }}</p>
+      </div>
+    </div>
     </div>
 
   </div>
