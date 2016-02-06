@@ -1,6 +1,6 @@
 # Build Settings
 markdown: kramdown
-permalink: /blog/:year/:title.html
+#permalink: /blog/:year/:title.html
 
 sass:
   sass_dir: _sass
