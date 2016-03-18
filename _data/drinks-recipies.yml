@@ -1,0 +1,40 @@
+mainstays:
+- {name: "Moscow Mule", ing: "4.5cl vodka , 12cl ginger beer , 0.5cl lime juice", prep: "Combine vodka and ginger beer in a highball glass filled with ice. Add lime juice. Stir gently and garnish with a lime slice and sprig of mint on the brim of the copper mug."}
+- {name: "Whiskey Sour", ing: "4.5cl whiskey , 3cl lemon juice , 1.5cl simple syrup , dash egg white", prep: "Shake with ice. Strain into chilled glass, garnish and serve.", notes: "If served ‘On the rocks’, strain ingredients into old-fashioned glass filled with ice.
+"}
+- {name: "Gin & Tonic", ing: "4.5cl gin , 12cl tonic water , || citrus or bitters if desired ||", prep: "In a glass filled with ice cubes, add gin and tonic", notes: "This is good with a dash-15cl of triple sec."}
+- {name: "Martini, dry", ing: "6cl gin/vodka , 1cl dry vermouth , garnish", prep: "Straight: Pour all ingredients into mixing glass with ice cubes. Stir well. Strain in chilled martini cocktail glass.", notes: "Squeeze oil from lemon peel onto the drink, or garnish with olive."}
+- {name: "Martini, perfect", ing: "gin/vodka , dry vermouth , red vermouth , garnish", prep: ""}
+- {name: "Martini, dirty", ing: "6cl gin/vodka , 1cl dry vermouth , 1cl olive brine , olive", prep: "Straight: Pour all ingredients into mixing glass with ice cubes. Stir well. Strain in chilled martini cocktail glass. Garnish with olive.", notes: "Dirty is better with vodka."}
+- {name: "Martini, Lemon Drop", ing: "2.5cl citron vodka , 2cl lemon juice , 1.5cl simple syrup", prep: "Shake and strain into a chilled cocktail glass rimmed with sugar, garnish with a slice of lemon."}
+- {name: "Manhattan", ing: "5cl rye whiskey , 2cl red vermouth , dash angostura bitters", prep: "Straight: Pour all ingredients into mixing glass with ice cubes. Stir well. Strain in chilled martini cocktail glass.", notes: "Optional: cherry garnish"}
+- {name: "Old Fashioned", ing: "4.5cl whiskey , 2dash angostura bitters , 0.5cl sugar , orange slice", prep: "Place sugar cube in Old Fashioned glass and saturate with bitters, add a dash of plain water. Muddle until dissolved. Fill the glass with ice cubes and ad whiskey. Garnish with orange slice.", notes: "Optional: add cocktail cherry as garnish."}
+- {name: "God Mother", ing: "3.5cl vodka , 3.5cl amaretto", prep: "Pour all ingredients directly into Old Fashioned Glass filled with ice cubes. Stir gently."}
+# - {name: "", ing: "", prep: ""}
+
+seasonal-spring:
+- {name: "Mojito", ing: "4cl rum , 3cl simple syrup , 6sprig mojito mint", prep: "muddle mint sprigs with sugar and lime juice. add splash of soda water and fill glass with cracked ice. Pour rum and top with soda water. Garnish with sprig of mint leaves and lemon slice. Serve with straw."}
+- {name: "Thymes Like These", ing: "3cl gin , 3cl cocchi americano (aperitif wine) , 4.5cl thyme-lime infusion , 2dash lime bitters", prep: "Place all ingredients in a shaker with ice. Shake and strain into a chilled cocktail glass.", notes: "Thyme-Lime_Mixture: 1cup simple syrup, large bunch of tyme (washed and patted dry), 0.25 cup freshly squeezed lime juice. Heat simple syrup until it comes to a gentle boil. Add thyme leaves. Reduce heat and let simmer for 10 minutes. Strain through a sieve or chinois. Add lime juice and cool before using."}
+- {name: "Kiwi Envy", ing: "6cl gin , 2.5cl elderflower liqueur , 2cl lime juice , 4slices kiwi , 2cl simple syrup , soda water", prep: "In a shaker, muddle the kiwi. Add spirits & mixers (not soda). Fill with ice & shake vigorously. Strain in to an ice filled collins glass. Top with soda water. Garnish with skin on kiwi slice."}
+- {name: "Ruby on Rails", ing: "4.5cl gin , 2cl pimm's no. 1 cup , 2.5cl strawberry syrup , 5cl rosé wine , 2 strawberries hulled and sliced thinly", prep: "Combine liquid ingredients in shaker filled with ice. Shake vigerously untill shilled. Strain into highball filled with ice and sliced strawberries."}
+
+# seasonal-summer:
+# - {name: "Mint Julep", ing: "6cl bourbon , 1cl fine sugar , 4sprig spearmint", prep: "In a highball glass gently muddle the mint, sugar and water. Fill the glass with cracked ice, add bourbon and stir well until the glass is frosty. garnish with a mint sprig."}
+# - {name: "Bramble", ing: "4cl gin , 1.5cl blackberry liqueur , 1.5cl lemon juice , 1.0cl simple syrup, lemon slice, blackberries", prep: "Build over crushed ice, in a rocks glass. stir, then pour the blackberry liqueur over the top of the drink in a circular fashion. Garnish with a lemon slice, and two blackberries."}
+# - {name: "Daiquiri", ing: "4.5cl rum , 2.5cl lime juice , 1.5cl simple syrup", prep: ""}
+# - {name: "", ing: "", prep: ""}
+
+
+# seasonal-fall:
+# - {name: "Can't Even", ing: "4.5cl gin , 3cl peach liqueur , 3cl orange liqueur , 3.5-4.0cl apple cider", prep: "pour ingredients into highball glass filled partially with ice. Mix well until chilled."}
+# - {name: "", ing: "", prep: ""}
+# - {name: "Cranberry Crush", ing: "6cl spiced rum , 9cl ginger beer , 6cl cranberry juice", prep: "in a rocks glass filled with ice, combine cranberry juice and rum. top with ginger beer."} # parts: 2,2,3
+# - {name: "Ciderhouse Whiskey", ing: "4.5cl bourbon , 1.5cl cider syrup , lemon zest twist", prep: "Combine bourbon and boiled cider over ice and stir gently. Twist lemon zest and drop into drink, stir again, and serve.", notes: "Make the boiled cider: Gently boil a apple cider in a heavy-bottomed pot, stirring occasionally, until it has reduced to 1⁄8 the original volume (making 2 cups syrup), about 2 hours. Let cool to room temperature and store, refrigerated, in an air-tight container"}
+
+# seasonal-winter:
+# - {name: "Egg Nog", ing: "", prep: ""}
+# - {name: "Irish Coffee", ing: "", prep: ""}
+# - {name: "Hot Toddy", ing: "apple brandy , apple cider", prep: ""}
+
+# - {name: "", ing: "", prep: ""}
+

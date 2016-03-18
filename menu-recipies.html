@@ -1,0 +1,115 @@
+---
+layout: page
+title: Drinks Menu
+---
+
+<hr />
+{% if site.data.drinks-recipies.mainstays %}
+    <div class="mainstays">
+        <h2>Mainstays</h2>
+        {% for drink in site.data.drinks-recipies.mainstays %}
+            
+            <div class="drink-item">
+                <div class="drink-name">{{ drink.name }}</div>
+                <div class="drink-ingredients">{{ drink.ing }}</div>
+                <br />{% if drink.prep %}
+                <div class="drink-prep"><p><em>Prep:</em> {{ drink.prep }}</p></div>
+                {% endif %}
+                <br />{% if drink.notes %}
+                <div class="drink-notes"><p><em>Notes:</em> {{ drink.notes }}</p></div>
+                {% endif %}
+            </div>
+
+        {% endfor %}
+    </div>
+{% endif %}
+
+{% if site.data.drinks-recipies.seasonal-spring %}
+    <br />
+    <hr />
+    <div class="seasonal-spring">
+        <h2>Specials, Spring</h2>
+        {% for drink in site.data.drinks-recipies.seasonal-spring %}
+            
+            <div class="drink-item">
+                <div class="drink-name">{{ drink.name }}</div>
+                <div class="drink-ingredients">{{ drink.ing }}</div>
+                <br />{% if drink.prep %}
+                <div class="drink-prep"><p><em>Prep:</em> {{ drink.prep }}</p></div>
+                {% endif %}
+                <br />{% if drink.notes %}
+                <div class="drink-notes"><p><em>Notes:</em> {{ drink.notes }}</p></div>
+                {% endif %}
+            </div>
+
+        {% endfor %}
+    </div>
+{% endif %}
+
+{% if site.data.drinks-recipies.seasonal-summer %}
+    <br />
+    <hr />
+    <div class="seasonal-summer">
+        <h2>Specials, Summer</h2>
+        {% for drink in site.data.drinks-recipies.seasonal-summer %}
+            
+            <div class="drink-item">
+                <div class="drink-name">{{ drink.name }}</div>
+                <div class="drink-ingredients">{{ drink.ing }}</div>
+                <br />{% if drink.prep %}
+                <div class="drink-prep"><p><em>Prep:</em> {{ drink.prep }}</p></div>
+                {% endif %}
+                <br />{% if drink.notes %}
+                <div class="drink-notes"><p><em>Notes:</em> {{ drink.notes }}</p></div>
+                {% endif %}
+            </div>
+
+        {% endfor %}
+    </div>
+{% endif %}
+
+{% if site.data.drinks-recipies.seasonal-fall %}
+    <br />
+    <hr />
+    <div class="seasonal-fall">
+        <h2>Specials, Fall</h2>
+        {% for drink in site.data.drinks-recipies.seasonal-fall %}
+            
+            <div class="drink-item">
+                <div class="drink-name">{{ drink.name }}</div>
+                <div class="drink-ingredients">{{ drink.ing }}</div>
+                <br />{% if drink.prep %}
+                <div class="drink-prep"><p><em>Prep:</em> {{ drink.prep }}</p></div>
+                {% endif %}
+                <br />{% if drink.notes %}
+                <div class="drink-notes"><p><em>Notes:</em> {{ drink.notes }}</p></div>
+                {% endif %}
+            </div>
+
+        {% endfor %}
+    </div>
+{% endif %}
+
+{% if site.data.drinks-recipies.seasonal-winter %}
+    <br />
+    <hr />
+    <div class="seasonal-winter">
+        <h2>Specials, Winter</h2>
+        {% for drink in site.data.drinks-recipies.seasonal-winter %}
+            
+            <div class="drink-item">
+                <div class="drink-name">{{ drink.name }}</div>
+                <div class="drink-ingredients">{{ drink.ing }}</div>
+                <br />{% if drink.prep %}
+                <div class="drink-prep"><p><em>Prep:</em> {{ drink.prep }}</p></div>
+                {% endif %}
+                <br />{% if drink.notes %}
+                <div class="drink-notes"><p><em>Notes:</em> {{ drink.notes }}</p></div>
+                {% endif %}
+            </div>
+
+        {% endfor %}
+    </div>
+{% endif %}
+
+
