@@ -8,11 +8,11 @@ mainstays:
 - {name: "Martini, Lemon Drop", ingredients: "citron vodka , lemon juice , simple syrup"}
 - {name: "Manhattan", ingredients: "whiskey , red vermouth , aromatic bitters"}
 - {name: "Old Fashioned", ingredients: "whiskey , aromatic bitters , sugar , orange slice"}
-- {name: "<span style=\"text-decoration: line-through;\">God Mother</span>", ingredients: "vodka , amaretto"}
+- {name: "God Mother", ingredients: "vodka , amaretto"}
 # - {name: "", ingredients: ""}
 
 seasonal-spring:
-- {name: "Mojito", ingredients: "rum , simple syrup , mojito mint"}
+- {name: "<span style=\"text-decoration: line-through;\">Mojito</span>", ingredients: "rum , simple syrup , mojito mint"}
 - {name: "<span style=\"text-decoration: line-through;\">Thymes Like These</span>", ingredients: "gin , cocchi americano , thyme-lime infusion , lime bitters"}
 - {name: "Kiwi Envy", ingredients: "gin , elderflower liqueur , lime juice , kiwi , simple syrup , soda water"}
 - {name: "<span style=\"text-decoration: line-through;\">Ruby on Rails</span>", ingredients: "gin , pimm's no. 1 cup , strawberry syrup , rosé wine , strawberries"}
