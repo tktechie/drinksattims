@@ -12,16 +12,16 @@ mainstays:
 - {name: "God Mother", ing: "3.5cl vodka , 3.5cl amaretto", prep: "Pour all ingredients directly into Old Fashioned Glass filled with ice cubes. Stir gently."}
 # - {name: "", ing: "", prep: ""}
 
-seasonal-spring:
-- {name: "Mojito", ing: "4cl rum , 3cl simple syrup , 6sprig mojito mint", prep: "muddle mint sprigs with sugar and lime juice. add splash of soda water and fill glass with cracked ice. Pour rum and top with soda water. Garnish with sprig of mint leaves and lemon slice. Serve with straw."}
-- {name: "Thymes Like These", ing: "3cl gin , 3cl cocchi americano (aperitif wine) , 4.5cl thyme-lime infusion , 2dash lime bitters", prep: "Place all ingredients in a shaker with ice. Shake and strain into a chilled cocktail glass.", notes: "Thyme-Lime_Mixture: 1cup simple syrup, large bunch of tyme (washed and patted dry), 0.25 cup freshly squeezed lime juice. Heat simple syrup until it comes to a gentle boil. Add thyme leaves. Reduce heat and let simmer for 10 minutes. Strain through a sieve or chinois. Add lime juice and cool before using."}
-- {name: "Kiwi Envy", ing: "6cl gin , 2.5cl elderflower liqueur , 2cl lime juice , 4slices kiwi , 2cl simple syrup , soda water", prep: "In a shaker, muddle the kiwi. Add spirits & mixers (not soda). Fill with ice & shake vigorously. Strain in to an ice filled collins glass. Top with soda water. Garnish with skin on kiwi slice."}
-- {name: "Ruby on Rails", ing: "4.5cl gin , 2cl pimm's no. 1 cup , 2.5cl strawberry syrup , 5cl rosé wine , 2 strawberries hulled and sliced thinly", prep: "Combine liquid ingredients in shaker filled with ice. Shake vigerously untill shilled. Strain into highball filled with ice and sliced strawberries."}
+# seasonal-spring:
+# - {name: "Mojito", ing: "4cl rum , 3cl simple syrup , 6sprig mojito mint", prep: "muddle mint sprigs with sugar and lime juice. add splash of soda water and fill glass with cracked ice. Pour rum and top with soda water. Garnish with sprig of mint leaves and lemon slice. Serve with straw."}
+# - {name: "Thymes Like These", ing: "3cl gin , 3cl cocchi americano (aperitif wine) , 4.5cl thyme-lime infusion , 2dash lime bitters", prep: "Place all ingredients in a shaker with ice. Shake and strain into a chilled cocktail glass.", notes: "Thyme-Lime_Mixture: 1cup simple syrup, large bunch of tyme (washed and patted dry), 0.25 cup freshly squeezed lime juice. Heat simple syrup until it comes to a gentle boil. Add thyme leaves. Reduce heat and let simmer for 10 minutes. Strain through a sieve or chinois. Add lime juice and cool before using."}
+# - {name: "Kiwi Envy", ing: "6cl gin , 2.5cl elderflower liqueur , 2cl lime juice , 4slices kiwi , 2cl simple syrup , soda water", prep: "In a shaker, muddle the kiwi. Add spirits & mixers (not soda). Fill with ice & shake vigorously. Strain in to an ice filled collins glass. Top with soda water. Garnish with skin on kiwi slice."}
+# - {name: "Ruby on Rails", ing: "4.5cl gin , 2cl pimm's no. 1 cup , 2.5cl strawberry syrup , 5cl rosé wine , 2 strawberries hulled and sliced thinly", prep: "Combine liquid ingredients in shaker filled with ice. Shake vigerously untill shilled. Strain into highball filled with ice and sliced strawberries."}
 
-# seasonal-summer:
-# - {name: "Mint Julep", ing: "6cl bourbon , 1cl fine sugar , 4sprig spearmint", prep: "In a highball glass gently muddle the mint, sugar and water. Fill the glass with cracked ice, add bourbon and stir well until the glass is frosty. garnish with a mint sprig."}
-# - {name: "Bramble", ing: "4cl gin , 1.5cl blackberry liqueur , 1.5cl lemon juice , 1.0cl simple syrup, lemon slice, blackberries", prep: "Build over crushed ice, in a rocks glass. stir, then pour the blackberry liqueur over the top of the drink in a circular fashion. Garnish with a lemon slice, and two blackberries."}
-# - {name: "Daiquiri", ing: "4.5cl rum , 2.5cl lime juice , 1.5cl simple syrup", prep: ""}
+seasonal-summer:
+- {name: "Mint Julep", ing: "6cl bourbon , 1cl fine sugar , 4sprig spearmint", prep: "In a highball glass gently muddle the mint, sugar and water. Fill the glass with cracked ice, add bourbon and stir well until the glass is frosty. garnish with a mint sprig."}
+- {name: "Bramble", ing: "4cl gin , 1.5cl blackberry liqueur , 1.5cl lemon juice , 1.0cl simple syrup, lemon slice, blackberries", prep: "Build over crushed ice, in a rocks glass. stir, then pour the blackberry liqueur over the top of the drink in a circular fashion. Garnish with a lemon slice, and two blackberries."}
+- {name: "Daiquiri", ing: "4.5cl rum , 2.5cl lime juice , 1.5cl simple syrup", prep: "Shake and strain into a cocktail glass."}
 # - {name: "", ing: "", prep: ""}
 
 
