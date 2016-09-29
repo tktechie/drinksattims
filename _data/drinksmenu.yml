@@ -17,18 +17,18 @@ mainstays:
 # - {name: "Kiwi Envy", ingredients: "gin , elderflower liqueur , lime juice , kiwi , simple syrup , soda water"}
 # - {name: "<span style=\"text-decoration: line-through;\">Ruby on Rails</span>", ingredients: "gin , pimm's no. 1 cup , strawberry syrup , rosé wine , strawberries"}
 
-seasonal-summer:
-- {name: "Mint Julep", ingredients: "bourbon , sugar , spearmint"}
-- {name: "Bramble", ingredients: "gin , blackberry liqueur , lemon juice , simple syrup"}
-- {name: "Daiquiri", ingredients: "rum , lime juice , simple syrup"}
+# seasonal-summer:
+# - {name: "Mint Julep", ingredients: "bourbon , sugar , spearmint"}
+# - {name: "Bramble", ingredients: "gin , blackberry liqueur , lemon juice , simple syrup"}
+# - {name: "Daiquiri", ingredients: "rum , lime juice , simple syrup"}
 # - {name: "", ingredients: ""}
 
 
-# seasonal-fall:
-# - {name: "Can't Even", ingredients: "gin , peach liqueur , orange liqueur , apple cider"}
+seasonal-fall:
+- {name: "Can't Even", ingredients: "gin , peach liqueur , orange liqueur , apple cider"}
 # - {name: "", ingredients: ""}
-# - {name: "Cranberry Crush", ingredients: "spiced rum , ginger beer , cranberry juice"} # parts: 2,2,3
-# - {name: "Ciderhouse Whiskey", ingredients: "bourbon , cider syrup , lemon zest twist"}
+- {name: "Cranberry Crush", ingredients: "spiced rum , ginger beer , cranberry juice"} # parts: 2,2,3
+- {name: "Ciderhouse Whiskey", ingredients: "bourbon , cider syrup , lemon zest twist"}
 
 # seasonal-winter:
 # - {name: "Egg Nog", ingredients: ""}

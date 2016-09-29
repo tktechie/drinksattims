@@ -18,18 +18,18 @@ mainstays:
 # - {name: "Kiwi Envy", ing: "6cl gin , 2.5cl elderflower liqueur , 2cl lime juice , 4slices kiwi , 2cl simple syrup , soda water", prep: "In a shaker, muddle the kiwi. Add spirits & mixers (not soda). Fill with ice & shake vigorously. Strain in to an ice filled collins glass. Top with soda water. Garnish with skin on kiwi slice."}
 # - {name: "Ruby on Rails", ing: "4.5cl gin , 2cl pimm's no. 1 cup , 2.5cl strawberry syrup , 5cl rosé wine , 2 strawberries hulled and sliced thinly", prep: "Combine liquid ingredients in shaker filled with ice. Shake vigerously untill shilled. Strain into highball filled with ice and sliced strawberries."}
 
-seasonal-summer:
-- {name: "Mint Julep", ing: "6cl bourbon , 1cl fine sugar , 4sprig spearmint", prep: "In a highball glass gently muddle the mint, sugar and water. Fill the glass with cracked ice, add bourbon and stir well until the glass is frosty. garnish with a mint sprig."}
-- {name: "Bramble", ing: "4cl gin , 1.5cl blackberry liqueur , 1.5cl lemon juice , 1.0cl simple syrup, lemon slice, blackberries", prep: "Build over crushed ice, in a rocks glass. stir, then pour the blackberry liqueur over the top of the drink in a circular fashion. Garnish with a lemon slice, and two blackberries."}
-- {name: "Daiquiri", ing: "4.5cl rum , 2.5cl lime juice , 1.5cl simple syrup", prep: "Shake and strain into a cocktail glass."}
+# seasonal-summer:
+# - {name: "Mint Julep", ing: "6cl bourbon , 1cl fine sugar , 4sprig spearmint", prep: "In a highball glass gently muddle the mint, sugar and water. Fill the glass with cracked ice, add bourbon and stir well until the glass is frosty. garnish with a mint sprig."}
+# - {name: "Bramble", ing: "4cl gin , 1.5cl blackberry liqueur , 1.5cl lemon juice , 1.0cl simple syrup, lemon slice, blackberries", prep: "Build over crushed ice, in a rocks glass. stir, then pour the blackberry liqueur over the top of the drink in a circular fashion. Garnish with a lemon slice, and two blackberries."}
+# - {name: "Daiquiri", ing: "4.5cl rum , 2.5cl lime juice , 1.5cl simple syrup", prep: "Shake and strain into a cocktail glass."}
 # - {name: "", ing: "", prep: ""}
 
 
-# seasonal-fall:
-# - {name: "Can't Even", ing: "4.5cl gin , 3cl peach liqueur , 3cl orange liqueur , 3.5-4.0cl apple cider", prep: "pour ingredients into highball glass filled partially with ice. Mix well until chilled."}
+seasonal-fall:
+- {name: "Can't Even", ing: "4.5cl gin , 3cl peach liqueur , 3cl orange liqueur , 3.5-4.0cl apple cider", prep: "pour ingredients into highball glass filled partially with ice. Mix well until chilled."}
 # - {name: "", ing: "", prep: ""}
-# - {name: "Cranberry Crush", ing: "6cl spiced rum , 9cl ginger beer , 6cl cranberry juice", prep: "in a rocks glass filled with ice, combine cranberry juice and rum. top with ginger beer."} # parts: 2,2,3
-# - {name: "Ciderhouse Whiskey", ing: "4.5cl bourbon , 1.5cl cider syrup , lemon zest twist", prep: "Combine bourbon and boiled cider over ice and stir gently. Twist lemon zest and drop into drink, stir again, and serve.", notes: "Make the boiled cider: Gently boil a apple cider in a heavy-bottomed pot, stirring occasionally, until it has reduced to 1⁄8 the original volume (making 2 cups syrup), about 2 hours. Let cool to room temperature and store, refrigerated, in an air-tight container"}
+- {name: "Cranberry Crush", ing: "6cl spiced rum , 9cl ginger beer , 6cl cranberry juice", prep: "in a rocks glass filled with ice, combine cranberry juice and rum. top with ginger beer."} # parts: 2,2,3
+- {name: "Ciderhouse Whiskey", ing: "4.5cl bourbon , 1.5cl cider syrup , lemon zest twist", prep: "Combine bourbon and boiled cider over ice and stir gently. Twist lemon zest and drop into drink, stir again, and serve.", notes: "Make the boiled cider: Gently boil a apple cider in a heavy-bottomed pot, stirring occasionally, until it has reduced to 1⁄8 the original volume (making 2 cups syrup), about 2 hours. Let cool to room temperature and store, refrigerated, in an air-tight container"}
 
 # seasonal-winter:
 # - {name: "Egg Nog", ing: "", prep: ""}
