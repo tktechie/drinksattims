@@ -25,15 +25,15 @@ mainstays:
 # - {name: "", ing: "", prep: ""}
 
 
-seasonal-fall:
-- {name: "Can't Even", ing: "4.5cl gin , 3cl peach liqueur , 3cl orange liqueur , 3.5-4.0cl apple cider", prep: "pour ingredients into highball glass filled partially with ice. Mix well until chilled."}
+# seasonal-fall:
+# - {name: "Can't Even", ing: "4.5cl gin , 3cl peach liqueur , 3cl orange liqueur , 3.5-4.0cl apple cider", prep: "pour ingredients into highball glass filled partially with ice. Mix well until chilled."}
 # - {name: "", ing: "", prep: ""}
-- {name: "Cranberry Crush", ing: "6cl spiced rum , 9cl ginger beer , 6cl cranberry juice", prep: "in a rocks glass filled with ice, combine cranberry juice and rum. top with ginger beer."} # parts: 2,2,3
-- {name: "Ciderhouse Whiskey", ing: "4.5cl bourbon , 1.5cl cider syrup , lemon zest twist", prep: "Combine bourbon and boiled cider over ice and stir gently. Twist lemon zest and drop into drink, stir again, and serve.", notes: "Make the boiled cider: Gently boil a apple cider in a heavy-bottomed pot, stirring occasionally, until it has reduced to 1⁄8 the original volume (making 2 cups syrup), about 2 hours. Let cool to room temperature and store, refrigerated, in an air-tight container"}
+# - {name: "Cranberry Crush", ing: "6cl spiced rum , 9cl ginger beer , 6cl cranberry juice", prep: "in a rocks glass filled with ice, combine cranberry juice and rum. top with ginger beer."} # parts: 2,2,3
+# - {name: "Ciderhouse Whiskey", ing: "4.5cl bourbon , 1.5cl cider syrup , lemon zest twist", prep: "Combine bourbon and boiled cider over ice and stir gently. Twist lemon zest and drop into drink, stir again, and serve.", notes: "Make the boiled cider: Gently boil a apple cider in a heavy-bottomed pot, stirring occasionally, until it has reduced to 1⁄8 the original volume (making 2 cups syrup), about 2 hours. Let cool to room temperature and store, refrigerated, in an air-tight container"}
 
-# seasonal-winter:
-# - {name: "Egg Nog", ing: "", prep: ""}
-# - {name: "Irish Coffee", ing: "", prep: ""}
+seasonal-winter:
+- {name: "Egg Nog", ing: "", prep: "pre make this early using recipe in Paprika app"}
+- {name: "Irish Coffee", ing: "2 ounces Irish whiskey , 5 to 6 ounces coffee , 2 teaspoons sugar , Whipped heavy cream to top", prep: "Pour the whiskey, coffee, and sugar* into a stemmed, heated glass mug. Stir, then top off with a thick layer of lightly whipped heavy cream. If too lazy or inebriated or depressed to bother whipping the stuff, just pour an ounce or two in over the back of a spoon. In either case, don't stir it in, and really don't drizzle crème de menthe over the top."}
 # - {name: "Hot Toddy", ing: "apple brandy , apple cider", prep: ""}
 
 # - {name: "", ing: "", prep: ""}

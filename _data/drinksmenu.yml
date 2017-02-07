@@ -24,15 +24,15 @@ mainstays:
 # - {name: "", ingredients: ""}
 
 
-seasonal-fall:
-- {name: "Can't Even", ingredients: "gin , peach liqueur , orange liqueur , apple cider"}
+# seasonal-fall:
+# - {name: "Can't Even", ingredients: "gin , peach liqueur , orange liqueur , apple cider"}
 # - {name: "", ingredients: ""}
-- {name: "Cranberry Crush", ingredients: "spiced rum , ginger beer , cranberry juice"} # parts: 2,2,3
-- {name: "Ciderhouse Whiskey", ingredients: "bourbon , cider syrup , lemon zest twist"}
+# - {name: "Cranberry Crush", ingredients: "spiced rum , ginger beer , cranberry juice # parts: 2,2,3
+# - {name: "Ciderhouse Whiskey", ingredients: "bourbon , cider syrup , lemon zest twist"}
 
-# seasonal-winter:
-# - {name: "Egg Nog", ingredients: ""}
-# - {name: "Irish Coffee", ingredients: ""}
+seasonal-winter:
+- {name: "Egg Nog", ingredients: "egg , sugar , dark rum , milk , cream"}
+- {name: "Irish Coffee", ingredients: "Irish Whiskey , coffee , sugar , whipped cream"}
 # - {name: "Hot Toddy", ingredients: "apple brandy , apple cider"}
 
 # - {name: "", ingredients: ""}
